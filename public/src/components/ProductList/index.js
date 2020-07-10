@@ -1,6 +1,5 @@
 import React from 'react';
-import { ListGroup, ListGroupItem, Button } from 'reactstrap';
-import { FaCheck, FaTimes } from 'react-icons/fa';
+import { ListGroup, ListGroupItem } from 'reactstrap';
 
 function ProductList(props) {
   return(
