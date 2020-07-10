@@ -1,0 +1,21 @@
+.message-block {
+  display: inline-block;
+  width: 100%;
+  padding: 0px 39px 0px 39px;
+}
+
+.message {
+  float: left;
+  display: block!important;
+  padding: 10px 20px;
+  background-color: #6C757D;
+  border-radius: 40px;
+  color: #fff;
+  word-wrap: break-word;
+  max-width: 60%;
+}
+
+.me {
+  background-color: #007BFF;
+  float: right;
+}
